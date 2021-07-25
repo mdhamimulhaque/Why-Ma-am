@@ -1,0 +1,32 @@
+/* table layout-768px */
+@media screen and (min-width: 768px) and (max-width: 991px){
+   .carousel img{
+	height: 100vh;
+}
+
+
+}
+
+/* mobile layout-320px */
+@media screen and (max-width: 767px){
+
+.carousel img{
+	height:300px;
+}
+
+	
+}
+/* wide mobile layout-480px */
+@media screen and (min-width: 480px) and (max-width: 767px){
+  .carousel img{
+	height:300px;
+}
+}
+
+
+/* iphone 4+/pixel-ragio-2 */
+@media screen and (min-width: 768px) and (max-width: 991px){
+	.carousel img{
+	height:300px;
+}
+}

@@ -1,0 +1,113 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.primary_color{
+	color: #34DCA2;
+}
+
+hr{
+	background: #34DCA2;
+	width: 50px;
+	height:3px;
+}
+
+
+.navbar-brand img{
+	height: 50px;
+}
+nav{
+	font-weight: bold;
+}
+
+.global-button{
+	background: #34DCA2 ;
+	color: #fff;
+}
+.global-button:hover{
+	background: #fff ;
+	color: #34DCA2;
+	border: 2px solid #34DCA2;
+}
+
+ul li :hover{
+	color:#34DCA2 !important ;
+}
+
+.carousel img{
+	height: 100vh;
+}
+.carousel h1{
+	color: #34DCA2;
+}
+
+.pagination li a{
+	color: #000;
+}
+
+footer .footer_img {
+ 	height: 70px;
+ 	width: 80%;
+ 	
+ }
+
+ footer .footer_img img{
+ 	height: 100%;
+ 	width: 100%;
+
+ }
+
+ footer ul li{
+ 	list-style: none;
+
+ }
+ footer ul li a{
+ 	line-height: 30px
+ }
+ footer ul li a:hover{
+ 	color: #34DCA2 !important;
+ }
+
+ .tags a{
+ 	padding: 5px 8px 5px 8px;
+ 	
+ } 
+ .tags a:hover{
+ 	background: #34DCA2
+ 	
+ }
+
+
+ footer .footer_icon{
+	padding-left: 10px;
+	padding-top: 10px;
+	
+}
+footer .footer_icon a{
+	padding-left:5px;
+	color:#C2C2C2;
+	font-size: 20px
+}
+footer .footer_icon a:hover{
+	
+	color:#34DCA2
+}
+
+
+
+
+/*===================== blog page css START=====================*/
+
+.my-blog{
+	height: 200px;
+	background:#34DCA2;
+	color: #fff;
+	text-align: center;
+}
+
+
+
+
+
